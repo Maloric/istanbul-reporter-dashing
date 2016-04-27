@@ -1,0 +1,8 @@
+{
+  "name": "istanbul-reporter-dashing",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Jamie Morris",
+  "license": "GNU"
+}
